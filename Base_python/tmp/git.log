@@ -1,0 +1,5 @@
+event 4 - 'git fetch origin'
+event 3 - 'git fetch origin'
+event 2 - 'git fetch origin'
+
+event 1 - 'git fetch origin'
